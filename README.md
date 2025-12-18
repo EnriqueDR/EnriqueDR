@@ -17,11 +17,11 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 
 ### 📌 Featured Embedded Project
 - 🔹 **RTOS Multitasking Firmware**  
-  Real-time application using FreeRTOS with task synchronization.
+  Real-time application using FreeRTOS with task synchronization
 
 ### 🧪 Tooling & Testing
-- **Python** scripting, automation, testing, and lightweight applications. Capable of quickly developing tools or solutions for embedded workflows
-- **JavaScript / Node.js** prototyping, test frameworks, and small-scale applications. Able to adapt for web interfaces, tooling, or integration tasks
+- **Python:** scripting, automation, testing, and lightweight applications; capable of quickly developing tools or solutions for embedded workflows  
+- **JavaScript / Node.js:** prototyping, test frameworks, and small-scale applications; able to adapt for web interfaces, tooling, or integration tasks
 
 ### 🎮 Side Projects (Game Development – Hobby)
 - Game development using **C# and Unity**
@@ -39,8 +39,8 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 - Grow as a specialist in embedded and connected devices
 
 ### 📫 Contact
-<!--- LinkedIn: *(your link here)*-->
-
+<!---- LinkedIn: [tu-link-aquí]
+- Email: [tu-email-aquí]-->
 
 
 <!--
