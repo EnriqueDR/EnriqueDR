@@ -4,7 +4,7 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 
 ### 🔧 Core Expertise
 - Firmware development in **C/C++**
-- **BLE connectivity** and communication protocols
+- Communication protocols
 - Multithreading and RTOS-based systems
 - Embedded Linux fundamentals (Yocto, kernel basics)
 - System debugging and optimization
