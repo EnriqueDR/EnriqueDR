@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi, I'm Enrique 👋
 
 Embedded Systems Engineer focused on firmware development in C/C++ for connected and real-time systems.
