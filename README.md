@@ -4,8 +4,8 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 ### 🔧 Core Expertise
 - Firmware development in **C/C++**
 - Communication protocols
-- Multithreading and RTOS-based systems
-- Embedded Linux fundamentals (Yocto, kernel basics)
+- Multithreading and **RTOS-based systems**
+- Embedded Linux fundamentals (**Yocto**, kernel basics)
 - System debugging and optimization
 
 ### 🧠 Technologies
@@ -15,12 +15,13 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 - **Connectivity:** BLE, Wi-Fi, LTE
 - **Platforms:** ESP32, STM32, Nordic SoCs
 
+### 📌 Featured Embedded Project
 - 🔹 **RTOS Multitasking Firmware**  
   Real-time application using FreeRTOS with task synchronization.
 
 ### 🧪 Tooling & Testing
-- **Python** for scripting, testing, automation, framewroks and more
-- **JavaScript / Node.js** for lightweight tooling, test frameworks, and prototyping
+- **Python** scripting, automation, testing, and lightweight applications. Capable of quickly developing tools or solutions for embedded workflows
+- **JavaScript / Node.js** prototyping, test frameworks, and small-scale applications. Able to adapt for web interfaces, tooling, or integration tasks
 
 ### 🎮 Side Projects (Game Development – Hobby)
 - Game development using **C# and Unity**
