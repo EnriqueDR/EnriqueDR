@@ -1,5 +1,4 @@
-## Hi, I'm Enrique 👋
-
+<!---## Hi, I'm Enrique 👋-->
 Embedded Systems Engineer focused on firmware development in C/C++ for connected and real-time systems.
 
 ### 🔧 Core Expertise
@@ -19,9 +18,14 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 - 🔹 **RTOS Multitasking Firmware**  
   Real-time application using FreeRTOS with task synchronization.
 
-### 🎮 Side Projects (Game Development)
-- Game prototypes developed with **C# (Unity)** and **JavaScript**
-- Focus on gameplay mechanics and systems programming
+### 🧪 Tooling & Testing
+- **Python** for scripting, testing, automation, framewroks and more
+- **JavaScript / Node.js** for lightweight tooling, test frameworks, and prototyping
+
+### 🎮 Side Projects (Game Development – Hobby)
+- Game development using **C# and Unity**
+- Focus on gameplay mechanics, systems programming, and prototyping
+- Personal projects for learning and creative exploration
 
 ### 🌱 Currently learning
 - Embedded Linux with **Yocto**
