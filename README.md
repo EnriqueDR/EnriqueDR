@@ -16,14 +16,8 @@ Embedded Systems Engineer focused on firmware development in C/C++ for connected
 - **Connectivity:** BLE, Wi-Fi, LTE
 - **Platforms:** ESP32, STM32, Nordic SoCs
 
-### 📌 Featured Embedded Projects
-- 🔹 **BLE Firmware using Zephyr**  
-  Embedded C firmware with simulated sensor abstraction and BLE services.
-
 - 🔹 **RTOS Multitasking Firmware**  
   Real-time application using FreeRTOS with task synchronization.
-
-*(More embedded projects coming soon)*
 
 ### 🎮 Side Projects (Game Development)
 - Game prototypes developed with **C# (Unity)** and **JavaScript**
